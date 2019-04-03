@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1553526718 source:c:\users\upiscopo\desktop\esercizi c\inserectionsort\main.cpp
+	<iostream>
+	"inserection.h"
+
+1553526811 c:\users\upiscopo\desktop\esercizi c\inserectionsort\include\inserection.h
+	<string>
+
+1553527166 source:c:\users\upiscopo\desktop\esercizi c\inserectionsort\src\inserection.cpp
+	"inserection.h"
+	<iostream>
+	<string>
+
+1553524426 c:\users\upiscopo\desktop\esercizi c\inserectionsort\src\inserection.cpp
+	"inserection.h"
+	<iostream>
+

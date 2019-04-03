@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1553072100 source:c:\users\umberto\dropbox\esercizicodiceasd\lezione3_lista\esercizio_lista\src\dipendenti.cpp
+	"dipendenti.h"
+
+1552924511 i.h"
+
+1553070700 c:\users\umberto\dropbox\esercizicodiceasd\lezione3_lista\esercizio_lista\include\dipendenti.h
+	<string>
+	<iostream>
+
+1552925388 
+
+1552946951 source:c:\users\umberto\dropbox\esercizicodiceasd\lezione3_lista\esercizio_lista\main.cpp
+	<iostream>
+	<string>
+	<dipendenti.h>
+	<vector>
+	<cstdlib>
+
+1552940038 source:/home/umberto/Dropbox/esercizicodiceasd/lezione3_lista/esercizio_lista/src/dipendenti.cpp
+	"dipendenti.h"
+	"dipendenti.h"
+	"dipendenti.h"
+
+1552946508 /home/umberto/Dropbox/esercizicodiceasd/lezione3_lista/esercizio_lista/include/dipendenti.h
+	<string>
+	<iostream>
+	<string>
+	<iostream>
+	<string>
+	<iostream>
+	<cstdlib>
+
+1552925388 source:/home/umberto/Dropbox/esercizicodiceasd/lezione3_lista/esercizio_lista/main.cpp
+	<iostream>
+	<list>
+	<string>
+	<dipendenti.h>
+	<vector>
+	<iostream>
+	<string>
+	<dipendenti.h>
+	<vector>
+	<cstdlib>
+
+1553072100 source:c:\users\upiscopo\dropbox\esercizicodiceasd\lezione3_lista\esercizio_lista\src\dipendenti.cpp
+	"dipendenti.h"
+
+1553070700 c:\users\upiscopo\dropbox\esercizicodiceasd\lezione3_lista\esercizio_lista\include\dipendenti.h
+	<string>
+	<iostream>
+
+1552946951 source:c:\users\upiscopo\dropbox\esercizicodiceasd\lezione3_lista\esercizio_lista\main.cpp
+	<iostream>
+	<string>
+	<dipendenti.h>
+	<vector>
+	<cstdlib>
+

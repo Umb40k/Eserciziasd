@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1553449493 source:c:\users\upiscopo\dropbox\esercizicodiceasd\esercizio_blockchain_leazione4\src\block.cpp
+	"Block.h"
+	<string>
+	<ctime>
+	<iostream>
+	<vector>
+	<cstdlib>
+	<iterator>
+	<map>
+	<cstring>
+
+1553449476 c:\users\upiscopo\dropbox\esercizicodiceasd\esercizio_blockchain_leazione4\include\block.h
+	<string>
+	<ctime>
+	<map>
+
+1553449445 source:c:\users\umberto\dropbox\esercizicodiceasd\esercizio_blockchain_leazione4\src\block.cpp
+	"Block.h"
+	<string>
+	<ctime>
+	<iostream>
+	<vector>
+	<cstdlib>
+	<iterator>
+	<map>
+	<cstring>
+
+1553449476 c:\users\umberto\dropbox\esercizicodiceasd\esercizio_blockchain_leazione4\include\block.h
+	<string>
+	<ctime>
+	<map>
+
+1553448098 source:c:\users\umberto\dropbox\esercizicodiceasd\esercizio_blockchain_leazione4\main.cpp
+	<iostream>
+	"Block.h"
+	"src\Block.cpp"
+
+1553449493 c:\users\umberto\dropbox\esercizicodiceasd\esercizio_blockchain_leazione4\src\block.cpp
+	"Block.h"
+	<string>
+	<ctime>
+	<iostream>
+	<vector>
+	<cstdlib>
+	<iterator>
+	<map>
+	<cstring>
+
+1553448098 source:c:\users\upiscopo\dropbox\esercizicodiceasd\esercizio_blockchain_leazione4\main.cpp
+	<iostream>
+	"Block.h"
+	"src\Block.cpp"
+
+1553449493 c:\users\upiscopo\dropbox\esercizicodiceasd\esercizio_blockchain_leazione4\src\block.cpp
+	"Block.h"
+	<string>
+	<ctime>
+	<iostream>
+	<vector>
+	<cstdlib>
+	<iterator>
+	<map>
+	<cstring>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1554213254 source:c:\users\upiscopo\dropbox\esercizicodiceasd\mergesortrecursive\main.cpp
+	<iostream>
+	<vector>
+	<queue>
+

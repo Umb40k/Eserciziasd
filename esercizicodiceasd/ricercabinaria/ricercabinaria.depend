@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1553607123 source:c:\users\upiscopo\desktop\esercizi c\ricercabinaria\main.cpp
+	<iostream>
+	"ricerca.h"
+
+1553612766 c:\users\upiscopo\desktop\esercizi c\ricercabinaria\include\ricerca.h
+
+1553613249 source:c:\users\upiscopo\desktop\esercizi c\ricercabinaria\src\ricerca.cpp
+	"ricerca.h"
+	<iostream>
+

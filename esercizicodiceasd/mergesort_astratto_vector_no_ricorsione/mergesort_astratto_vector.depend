@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1554204329 source:c:\users\upiscopo\desktop\esercizi c\mergesort_astratto_vector\main.cpp
+	<iostream>
+	<vector>
+	<stdlib.h>
+
+1554204778 source:c:\users\upiscopo\dropbox\esercizicodiceasd\mergesort_astratto_vector_no_ricorsione\main.cpp
+	<iostream>
+	<vector>
+	<stdlib.h>
+
